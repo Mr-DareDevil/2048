@@ -19,6 +19,11 @@ You will find a binary file named 2048. Just run -
 ```
 $ ./2048
 ```
+
+## Pre-requisites
+You should have SFML installed. For that you can refer to [SFML](https://www.sfml-dev.org/tutorials/2.5/)
+
+
 Now Enjoy ! :D 
 0xeax
 
